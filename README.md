@@ -1,4 +1,4 @@
-# Azure-DevOps-Take-home-assignment
+# Azure DevOps - Take home assignment
 
 In this assignment you will take use of Infrastructure As Code, a concept that is an important part of cloud development.
 
